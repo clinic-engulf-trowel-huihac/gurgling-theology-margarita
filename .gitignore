@@ -1,0 +1,8 @@
+# .gitignore
+
+results/*
+!results/vision_model_db.csv
+/env
+/source/__pycache__
+/data
+*.out
